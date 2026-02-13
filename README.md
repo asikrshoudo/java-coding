@@ -3,4 +3,6 @@ this is my java coding journey!
 
 ## files link below
 
-[sum](./basics/Sum)
+
+[hello_world](./basics/hello)
+[Sum](./basics/Sum)
