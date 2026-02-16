@@ -8,11 +8,4 @@ Stay tuned for updates, projects and progress.
 
 ---
 
-## Files and Projects
-
-- [Hello World](./basics/hello)
-- [Sum](./basics/Sum)
-
----
-
 *Give star if you find this helpful.*
